@@ -35,8 +35,6 @@ Change logic for searching in
 
 ## Life hacks
 * Start from running for 1-2 urls: in `src/helpers.js` in line
-<br/>
-`(let i = 1; i < arraysWithInfo.length; i++)`replace `arraysWithInfo.length` with `1` or `2`
-
+`(let i = 1; i < arraysWithInfo.length; i++)` replace `arraysWithInfo.length` with `1` or `2`
 * To prevent page from closing: in `src/findInHTML.js` remove `await page.close()`
 * To prevent browser from closing: in `src/pageController.js` remove ` await browser.close()`
