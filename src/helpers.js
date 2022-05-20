@@ -3,6 +3,7 @@ const path = require("path");
 
 //you should write name of input file here manually
 let input = 'CanonicalUK.xlsx'
+
 let inputFile = path.resolve('./inputs/', input);
 let output = `outputs/OUTPUTfor${input.split('.')[0]}.json`
 
