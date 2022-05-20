@@ -1,0 +1,1719 @@
+{
+  "found data for HreflangsX-default.xlsx": [
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/digital/checkout'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/guide'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/calculator'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike-plus'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/financing'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/shop/guide'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/membership'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/home-trial'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/app'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/classes'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/reviews'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/instructors'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/security'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/press'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/careers'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/instructors/yoga'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/instructors/bike'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_sportscheckbraunschweig'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/au_davidjoneschadstone'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_sportreischmannkempten'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_cologne'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_sportheinzelbiberach'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/ca_on_etobicoke_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/can_ab_edmonton'": []
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/au_davidjoneselizabethstreet'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/au_davidjonesbourkestreet'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_dusseldorf_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_leipzig'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/ca_ca_granvillewest4th'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_stuttgart'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_vaund'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/ca_on_toronto_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_sportscheckbremen'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/can_ab_calgary'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/ca_on_mississauga'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_sportscheckkarlsruhe'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/ca_ca_vancouver'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/au_martinplace'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_intersportingolstadt'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_ltsportosnabruck'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_engelhornsportsmannheim'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/ca_bc_parkroyal'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_hamburg'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/au_bondijunction'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewisnewcastle'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ny_madisonavenue'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ut_murray'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/gb_bluewater'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ny_brookfieldplace'": []
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_tx_plano'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_de_newark'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_walnutcreek'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ia_desmoines'": []
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/gb_canarywharf'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_il_oakbrook'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/detroit'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/roosevelt'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewissouthampton'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_roseville_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_fl_tampa'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_harrods'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_pa_pittsburgh'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_wi_wauwatosa'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/santa-monica'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_tx_houston'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/seattle'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewiswelwyn'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ks_leawood'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/natick'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewisoxfordst'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_pasadena'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_in_indianapolis'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ma_dedham'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_nj_cherryhill'": []
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_wa_seattle'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_birminghambullring'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_canogapark_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ma_boston'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ny_psnyretail'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_or_portland_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_cortemadera'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_md_bethesda'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_al_birmingham'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_oh_columbus'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/gb_oxford'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ky_louisville'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_tx_marketstreet'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewishorsham'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_az_scottsdale_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewisliverpool'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_newportbeach'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_sandiego'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_md_annapolis'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_nc_raleigh'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewishighwycombe'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_mallofamerica_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/charlotte_nc_us_52'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_co_lonetree_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_fl_aventura'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_il_chicago'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_santaclara'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewistrafford'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ga_atlanta'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_oh_cincinnati'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_tx_dallas'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_fl_jacksonville'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_glasgow'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/southlake_tx_us_57'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_thousandoaks'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_va_tysonscorner'": []
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_il_skokie'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_md_columbia'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_nuremberg'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ny_hudsonyards2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/de_sportscheckkassel'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_pa_kingofprussia'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_fl_bocaraton'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewiskingston'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ga_alpharetta'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_nc_durham_2'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_edinburgh'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/gb_kingsroad'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_centurycity'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_mn_edina'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_wi_madison'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_nj_shrewsbury'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_oh_orangevillage'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/gb_leeds'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewisnottingham'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ca_longbeach'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ny_manhasset'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewischeadle'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/uk_johnlewismiltonkeynes'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ma_chestnuthill'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_tx_highlandvillage'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_mo_stlouis'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_ct_westhartford'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_fl_palmbeachgardens'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_nj_paramus'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/denver'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_tn_nashville'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/showrooms/us_va_richmond'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/reviews/submit'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/pelo_cw'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/AlexToussaint'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/IAMICANIWILLIDO'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/bradley_rose'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/ChampionSpirit'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/CMR_pelo'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/AllyMissLove'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/nyhustle'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/robin'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/Loonisee'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/ba_pelo'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/ImFranktheTank'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/HMC_NYC'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/hauptstadttrain'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/JessicaKing'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/codyrigsby'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/JennSherman'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/ChristianVV'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/stest'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/yoga/instructors/texcany'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/danceonbike_uk'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/yoga/instructors/Peloton_L'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/MaylaWedekind'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/grannyriri'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/yoga/instructors/krimcgee'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/yoga/instructors/Peloton_MF'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/yoga/instructors/Peloton_N'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/bike/instructors/PeloML'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    },
+    {
+      "hreflangs for 'https://www.onepeloton.com.au/yoga/instructors/CJRLovesYoga'": [
+        "en-US",
+        "en-GB",
+        "en-CA",
+        "de-DE",
+        "en-AU",
+        "x-default"
+      ]
+    }
+  ]
+}

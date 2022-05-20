@@ -1,0 +1,612 @@
+{
+  "found data for CanonicalUK.xlsx": [
+    {
+      "canonical for 'https://www.onepeloton.co.uk/shop/tread/warranty'": [
+        "https://www.onepeloton.co.uk/shop/tread"
+      ]
+    },
+    {
+      "'https://www.onepeloton.co.uk/shop/accessories/tread-bootcamp' <-redirected to->": "https://www.onepeloton.co.uk/shop/accessories",
+      "canonical for 'https://www.onepeloton.co.uk/shop/accessories'": [
+        "https://www.onepeloton.co.uk/shop/accessories"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/shop/tread/assembly'": [
+        "https://www.onepeloton.co.uk/shop/tread"
+      ]
+    },
+    {
+      "'https://www.onepeloton.co.uk/bikes/financing' <-redirected to->": "https://www.onepeloton.co.uk/financing",
+      "canonical for 'https://www.onepeloton.co.uk/financing'": [
+        "https://www.onepeloton.co.uk/financing"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/bikes/classes'": [
+        "https://www.onepeloton.co.uk/bike/classes"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bradley_rose'": [
+        "https://www.onepeloton.co.uk/bike/instructors/bradley_rose"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/AllyMissLove'": [
+        "https://www.onepeloton.co.uk/bike/instructors/allymisslove"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/nooneissafe'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/nooneissafe"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/ChampionSpirit'": [
+        "https://www.onepeloton.co.uk/bike/instructors/championspirit"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/ba_pelo'": [
+        "https://www.onepeloton.co.uk/bike/instructors/ba_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/AlexToussaint'": [
+        "https://www.onepeloton.co.uk/bike/instructors/alextoussaint"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/aditishah'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/aditishah"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/agreenberg'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/agreenberg"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/ASpeer'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/aspeer"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/BecsGentry'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/becsgentry"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/hauptstadttrain'": [
+        "https://www.onepeloton.co.uk/bike/instructors/hauptstadttrain"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/danceonbike_uk'": [
+        "https://www.onepeloton.co.uk/bike/instructors/danceonbike_uk"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/MaylaWedekind'": [
+        "https://www.onepeloton.co.uk/bike/instructors/maylawedekind"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/liv_amato'": [
+        "https://www.onepeloton.co.uk/bike/instructors/liv_amato"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/ImFranktheTank'": [
+        "https://www.onepeloton.co.uk/bike/instructors/imfrankthetank"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/PeloML'": [
+        "https://www.onepeloton.co.uk/bike/instructors/peloml"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/IAMICANIWILLIDO'": [
+        "https://www.onepeloton.co.uk/bike/instructors/iamicaniwillido"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_SC'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_sc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/krimcgee'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/krimcgee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_KF'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_kf"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/peloton_r'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_r"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_L'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_l"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/clifforddwenger'": [
+        "https://www.onepeloton.co.uk/bike/instructors/clifforddwenger"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/JennSherman'": [
+        "https://www.onepeloton.co.uk/bike/instructors/jennsherman"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/rebeccakennedy'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/rebeccakennedy"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_C'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_c"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/grannyriri'": [
+        "https://www.onepeloton.co.uk/bike/instructors/grannyriri"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/JHpelo'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/jhpelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_JJ'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_jj"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/mattymaggiacomo'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/mattymaggiacomo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/texcany'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/texcany"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/ruby_de'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/ruby_de"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_MF'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_mf"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_N'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_n"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/stest'": [
+        "https://www.onepeloton.co.uk/bike/instructors/stest"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Loonisee'": [
+        "https://www.onepeloton.co.uk/bike/instructors/loonisee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/kmoneyNYC'": [
+        "https://www.onepeloton.co.uk/bike/instructors/kmoneynyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/jm_pelo'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/jm_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/JTpelo'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/jtpelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/CJRLovesYoga'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/cjrlovesyoga"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/jesssims'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/jesssims"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/codyrigsby'": [
+        "https://www.onepeloton.co.uk/bike/instructors/codyrigsby"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/CMR_pelo'": [
+        "https://www.onepeloton.co.uk/bike/instructors/cmr_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/peloton_mm'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_mm"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/islandlife17'": [
+        "https://www.onepeloton.co.uk/bike/instructors/islandlife17"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/JessicaKing'": [
+        "https://www.onepeloton.co.uk/bike/instructors/jessicaking"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/HMC_NYC'": [
+        "https://www.onepeloton.co.uk/bike/instructors/hmc_nyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/selenasamuela1'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/selenasamuela1"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/pelo_cw'": [
+        "https://www.onepeloton.co.uk/bike/instructors/pelo_cw"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/nyhustle'": [
+        "https://www.onepeloton.co.uk/bike/instructors/nyhustle"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/ChristianVV'": [
+        "https://www.onepeloton.co.uk/bike/instructors/christianvv"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/D_Peloton'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/d_peloton"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/Peloton_M'": [
+        "https://www.onepeloton.co.uk/undefined/instructors/peloton_m"
+      ]
+    },
+    {
+      "'https://www.onepeloton.co.uk/company/careers' <-redirected to->": "https://www.onepeloton.co.uk/careers",
+      "canonical for 'https://www.onepeloton.co.uk/careers'": [
+        "https://www.onepeloton.co.uk/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/robin'": [
+        "https://www.onepeloton.co.uk/bike/instructors/robin"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/shop/bike/warranty'": [
+        "https://www.onepeloton.co.uk/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/AllyMissLove'": [
+        "https://www.onepeloton.co.uk/bike/instructors/allymisslove"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/Loonisee'": [
+        "https://www.onepeloton.co.uk/bike/instructors/loonisee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/HMC_NYC'": [
+        "https://www.onepeloton.co.uk/bike/instructors/hmc_nyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/nyhustle'": [
+        "https://www.onepeloton.co.uk/bike/instructors/nyhustle"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/IAMICANIWILLIDO'": [
+        "https://www.onepeloton.co.uk/bike/instructors/iamicaniwillido"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/stest'": [
+        "https://www.onepeloton.co.uk/bike/instructors/stest"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/PeloML'": [
+        "https://www.onepeloton.co.uk/bike/instructors/peloml"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/shop/bike/assembly'": [
+        "https://www.onepeloton.co.uk/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/bradley_rose'": [
+        "https://www.onepeloton.co.uk/bike/instructors/bradley_rose"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/hauptstadttrain'": [
+        "https://www.onepeloton.co.uk/bike/instructors/hauptstadttrain"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/pelo_cw'": [
+        "https://www.onepeloton.co.uk/bike/instructors/pelo_cw"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/clifforddwenger'": [
+        "https://www.onepeloton.co.uk/bike/instructors/clifforddwenger"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/robin'": [
+        "https://www.onepeloton.co.uk/bike/instructors/robin"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/CMR_pelo'": [
+        "https://www.onepeloton.co.uk/bike/instructors/cmr_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/islandlife17'": [
+        "https://www.onepeloton.co.uk/bike/instructors/islandlife17"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/danceonbike_uk'": [
+        "https://www.onepeloton.co.uk/bike/instructors/danceonbike_uk"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/JennSherman'": [
+        "https://www.onepeloton.co.uk/bike/instructors/jennsherman"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/JessicaKing'": [
+        "https://www.onepeloton.co.uk/bike/instructors/jessicaking"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/MaylaWedekind'": [
+        "https://www.onepeloton.co.uk/bike/instructors/maylawedekind"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/shop/bike/compare'": [
+        "https://www.onepeloton.co.uk/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/liv_amato'": [
+        "https://www.onepeloton.co.uk/bike/instructors/liv_amato"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/codyrigsby'": [
+        "https://www.onepeloton.co.uk/bike/instructors/codyrigsby"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/grannyriri'": [
+        "https://www.onepeloton.co.uk/bike/instructors/grannyriri"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/ChristianVV'": [
+        "https://www.onepeloton.co.uk/bike/instructors/christianvv"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/ba_pelo'": [
+        "https://www.onepeloton.co.uk/bike/instructors/ba_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/ImFranktheTank'": [
+        "https://www.onepeloton.co.uk/bike/instructors/imfrankthetank"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/kmoneyNYC'": [
+        "https://www.onepeloton.co.uk/bike/instructors/kmoneynyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/ChampionSpirit'": [
+        "https://www.onepeloton.co.uk/bike/instructors/championspirit"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/bike/AlexToussaint'": [
+        "https://www.onepeloton.co.uk/bike/instructors/alextoussaint"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/robin'": [
+        "https://www.onepeloton.co.uk/bike/instructors/robin"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/texcany'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/texcany"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/JTpelo'": [
+        "https://www.onepeloton.co.uk/tread/instructors/jtpelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/Peloton_JJ'": [
+        "https://www.onepeloton.co.uk/tread/instructors/peloton_jj"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/rebeccakennedy'": [
+        "https://www.onepeloton.co.uk/tread/instructors/rebeccakennedy"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/ASpeer'": [
+        "https://www.onepeloton.co.uk/tread/instructors/aspeer"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/jesssims'": [
+        "https://www.onepeloton.co.uk/tread/instructors/jesssims"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/Peloton_SC'": [
+        "https://www.onepeloton.co.uk/tread/instructors/peloton_sc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/Peloton_L'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/peloton_l"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/peloton_mm'": [
+        "https://www.onepeloton.co.uk/tread/instructors/peloton_mm"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/Peloton_N'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/peloton_n"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/liv_amato'": [
+        "https://www.onepeloton.co.uk/bike/instructors/liv_amato"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/aditishah'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/aditishah"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/JHpelo'": [
+        "https://www.onepeloton.co.uk/tread/instructors/jhpelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/BecsGentry'": [
+        "https://www.onepeloton.co.uk/tread/instructors/becsgentry"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/Peloton_M'": [
+        "https://www.onepeloton.co.uk/tread/instructors/peloton_m"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/nooneissafe'": [
+        "https://www.onepeloton.co.uk/tread/instructors/nooneissafe"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/JessicaKing'": [
+        "https://www.onepeloton.co.uk/bike/instructors/jessicaking"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/agreenberg'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/agreenberg"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/ruby_de'": [
+        "https://www.onepeloton.co.uk/tread/instructors/ruby_de"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/CJRLovesYoga'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/cjrlovesyoga"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/Loonisee'": [
+        "https://www.onepeloton.co.uk/bike/instructors/loonisee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/grannyriri'": [
+        "https://www.onepeloton.co.uk/bike/instructors/grannyriri"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/D_Peloton'": [
+        "https://www.onepeloton.co.uk/tread/instructors/d_peloton"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/krimcgee'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/krimcgee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/jm_pelo'": [
+        "https://www.onepeloton.co.uk/tread/instructors/jm_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/selenasamuela1'": [
+        "https://www.onepeloton.co.uk/tread/instructors/selenasamuela1"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/mattymaggiacomo'": [
+        "https://www.onepeloton.co.uk/tread/instructors/mattymaggiacomo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/yoga/Peloton_MF'": [
+        "https://www.onepeloton.co.uk/yoga/instructors/peloton_mf"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/instructors/tread/Peloton_KF'": [
+        "https://www.onepeloton.co.uk/tread/instructors/peloton_kf"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.co.uk/tread/reviews'": [
+        "https://www.onepeloton.co.uk/tread"
+      ]
+    }
+  ]
+}

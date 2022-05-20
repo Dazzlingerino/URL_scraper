@@ -1,0 +1,579 @@
+{
+  "found data for CanonicalCA.xlsx": [
+    {
+      "'https://www.onepeloton.ca/guide-announce' <-redirected to->": "https://www.onepeloton.ca/guide",
+      "canonical for 'https://www.onepeloton.ca/guide'": [
+        "https://www.onepeloton.ca/guide"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike-plus/warranty'": [
+        "https://www.onepeloton.ca/shop/bike-plus"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike-plus/assembly'": [
+        "https://www.onepeloton.ca/shop/bike-plus"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike-plus/compare'": [
+        "https://www.onepeloton.ca/shop/bike-plus"
+      ]
+    },
+    {
+      "'https://www.onepeloton.ca/shop/accessories/bike' <-redirected to->": "https://www.onepeloton.ca/shop/accessories",
+      "canonical for 'https://www.onepeloton.ca/shop/accessories'": [
+        "https://www.onepeloton.ca/shop/accessories"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike-plus?chat=true'": [
+        "https://www.onepeloton.ca/shop/bike-plus"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/tread/warranty'": [
+        "https://www.onepeloton.ca/shop/tread"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/bikes/classes'": [
+        "https://www.onepeloton.ca/bike/classes"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/calculator/household-size'": [
+        "https://www.onepeloton.ca/calculator"
+      ]
+    },
+    {
+      "'https://www.onepeloton.ca/shop/accessories/tread-bootcamp' <-redirected to->": "https://www.onepeloton.ca/shop/accessories",
+      "canonical for 'https://www.onepeloton.ca/shop/accessories'": [
+        "https://www.onepeloton.ca/shop/accessories"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/tread/assembly'": [
+        "https://www.onepeloton.ca/shop/tread"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike-plus/assembly?chat=true'": [
+        "https://www.onepeloton.ca/shop/bike-plus"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike?chat=true'": [
+        "https://www.onepeloton.ca/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike/assembly'": [
+        "https://www.onepeloton.ca/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike/warranty'": [
+        "https://www.onepeloton.ca/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike/compare'": [
+        "https://www.onepeloton.ca/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike-plus/warranty?chat=true'": [
+        "https://www.onepeloton.ca/shop/bike-plus"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/danceonbike_uk'": [
+        "https://www.onepeloton.ca/bike/instructors/danceonbike_uk"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/liv_amato'": [
+        "https://www.onepeloton.ca/bike/instructors/liv_amato"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/codyrigsby'": [
+        "https://www.onepeloton.ca/bike/instructors/codyrigsby"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_MF'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_mf"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/HMC_NYC'": [
+        "https://www.onepeloton.ca/bike/instructors/hmc_nyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/MaylaWedekind'": [
+        "https://www.onepeloton.ca/bike/instructors/maylawedekind"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/rebeccakennedy'": [
+        "https://www.onepeloton.ca/undefined/instructors/rebeccakennedy"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/AlexToussaint'": [
+        "https://www.onepeloton.ca/bike/instructors/alextoussaint"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/danceonbike_uk'": [
+        "https://www.onepeloton.ca/bike/instructors/danceonbike_uk"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_M'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_m"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/Loonisee'": [
+        "https://www.onepeloton.ca/bike/instructors/loonisee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/clifforddwenger'": [
+        "https://www.onepeloton.ca/bike/instructors/clifforddwenger"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/texcany'": [
+        "https://www.onepeloton.ca/undefined/instructors/texcany"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/HMC_NYC'": [
+        "https://www.onepeloton.ca/bike/instructors/hmc_nyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/krimcgee'": [
+        "https://www.onepeloton.ca/undefined/instructors/krimcgee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/codyrigsby'": [
+        "https://www.onepeloton.ca/bike/instructors/codyrigsby"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/jesssims'": [
+        "https://www.onepeloton.ca/undefined/instructors/jesssims"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/stest'": [
+        "https://www.onepeloton.ca/bike/instructors/stest"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/ChampionSpirit'": [
+        "https://www.onepeloton.ca/bike/instructors/championspirit"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_L'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_l"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/ba_pelo'": [
+        "https://www.onepeloton.ca/bike/instructors/ba_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/AllyMissLove'": [
+        "https://www.onepeloton.ca/bike/instructors/allymisslove"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/JessicaKing'": [
+        "https://www.onepeloton.ca/bike/instructors/jessicaking"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/CJRLovesYoga'": [
+        "https://www.onepeloton.ca/undefined/instructors/cjrlovesyoga"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/ImFranktheTank'": [
+        "https://www.onepeloton.ca/bike/instructors/imfrankthetank"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_C'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_c"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/liv_amato'": [
+        "https://www.onepeloton.ca/bike/instructors/liv_amato"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/CMR_pelo'": [
+        "https://www.onepeloton.ca/bike/instructors/cmr_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/selenasamuela1'": [
+        "https://www.onepeloton.ca/undefined/instructors/selenasamuela1"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/hauptstadttrain'": [
+        "https://www.onepeloton.ca/bike/instructors/hauptstadttrain"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/ChristianVV'": [
+        "https://www.onepeloton.ca/bike/instructors/christianvv"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/pelo_cw'": [
+        "https://www.onepeloton.ca/bike/instructors/pelo_cw"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/kmoneyNYC'": [
+        "https://www.onepeloton.ca/bike/instructors/kmoneynyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_SC'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_sc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/bradley_rose'": [
+        "https://www.onepeloton.ca/bike/instructors/bradley_rose"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/islandlife17'": [
+        "https://www.onepeloton.ca/bike/instructors/islandlife17"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/jm_pelo'": [
+        "https://www.onepeloton.ca/undefined/instructors/jm_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/IAMICANIWILLIDO'": [
+        "https://www.onepeloton.ca/bike/instructors/iamicaniwillido"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_KF'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_kf"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/stest'": [
+        "https://www.onepeloton.ca/bike/instructors/stest"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/IAMICANIWILLIDO'": [
+        "https://www.onepeloton.ca/bike/instructors/iamicaniwillido"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/nyhustle'": [
+        "https://www.onepeloton.ca/bike/instructors/nyhustle"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/ImFranktheTank'": [
+        "https://www.onepeloton.ca/bike/instructors/imfrankthetank"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/JennSherman'": [
+        "https://www.onepeloton.ca/bike/instructors/jennsherman"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/hauptstadttrain'": [
+        "https://www.onepeloton.ca/bike/instructors/hauptstadttrain"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/robin'": [
+        "https://www.onepeloton.ca/bike/instructors/robin"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/JTpelo'": [
+        "https://www.onepeloton.ca/undefined/instructors/jtpelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/PeloML'": [
+        "https://www.onepeloton.ca/bike/instructors/peloml"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/CMR_pelo'": [
+        "https://www.onepeloton.ca/bike/instructors/cmr_pelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/pelo_cw'": [
+        "https://www.onepeloton.ca/bike/instructors/pelo_cw"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/mattymaggiacomo'": [
+        "https://www.onepeloton.ca/undefined/instructors/mattymaggiacomo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/ruby_de'": [
+        "https://www.onepeloton.ca/undefined/instructors/ruby_de"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/islandlife17'": [
+        "https://www.onepeloton.ca/bike/instructors/islandlife17"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/JennSherman'": [
+        "https://www.onepeloton.ca/bike/instructors/jennsherman"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/grannyriri'": [
+        "https://www.onepeloton.ca/bike/instructors/grannyriri"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/kmoneyNYC'": [
+        "https://www.onepeloton.ca/bike/instructors/kmoneynyc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/JessicaKing'": [
+        "https://www.onepeloton.ca/bike/instructors/jessicaking"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/bike/robin'": [
+        "https://www.onepeloton.ca/bike/instructors/robin"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_JJ'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_jj"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/MaylaWedekind'": [
+        "https://www.onepeloton.ca/bike/instructors/maylawedekind"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/D_Peloton'": [
+        "https://www.onepeloton.ca/undefined/instructors/d_peloton"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/peloton_mm'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_mm"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Loonisee'": [
+        "https://www.onepeloton.ca/bike/instructors/loonisee"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/JHpelo'": [
+        "https://www.onepeloton.ca/undefined/instructors/jhpelo"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/Peloton_N'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_n"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/peloton_r'": [
+        "https://www.onepeloton.ca/undefined/instructors/peloton_r"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/calculator/monthly-cost'": [
+        "https://www.onepeloton.ca/calculator"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/nyhustle'": [
+        "https://www.onepeloton.ca/bike/instructors/nyhustle"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/tread/tread-ultimate-package-ca/dumbbells-weight-guide'": [
+        "https://www.onepeloton.ca/shop/tread/tread-ultimate-package-ca"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/instructors/ChristianVV'": [
+        "https://www.onepeloton.ca/bike/instructors/christianvv"
+      ]
+    },
+    {
+      "'https://www.onepeloton.ca/company/careers' <-redirected to->": "https://www.onepeloton.ca/careers",
+      "canonical for 'https://www.onepeloton.ca/careers'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/tread/tread-starter-package-ca/dumbbells-weight-guide'": [
+        "https://www.onepeloton.ca/shop/tread/tread-starter-package-ca"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/tread/reviews'": [
+        "https://www.onepeloton.ca/tread"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/tread/tread-ultimate-package-ca/heart-rate-band-size-guide'": [
+        "https://www.onepeloton.ca/shop/tread/tread-ultimate-package-ca"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/accessories/dumbbells/dumbbells-weight-guide'": [
+        "https://www.onepeloton.ca/shop/accessories/dumbbells"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike/compare?chat=true'": [
+        "https://www.onepeloton.ca/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike/warranty?chat=true'": [
+        "https://www.onepeloton.ca/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/bike/assembly?chat=true'": [
+        "https://www.onepeloton.ca/shop/bike"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/retail'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/people'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/content'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/product-management'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/accessories/set/bikes-ultimate-acc/dumbbells-weight-guide'": [
+        "https://www.onepeloton.ca/shop/accessories/set/bikes-ultimate-acc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/enterprise-information-technology-eit'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/field-operations'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/operations-and-logistics'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/creative'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/membership'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/product-design'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "'https://www.onepeloton.ca/calculator/workout-routine' <-redirected to->": "https://www.onepeloton.ca/calculator/monthly-cost",
+      "canonical for 'https://www.onepeloton.ca/calculator/monthly-cost'": [
+        "https://www.onepeloton.ca/calculator"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/accessories/set/bikes-select-acc/heart-rate-band-size-guide'": [
+        "https://www.onepeloton.ca/shop/accessories/set/bikes-select-acc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/sales'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/software'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/legal'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/marketing'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/shop/accessories/set/bikes-ultimate-acc/heart-rate-band-size-guide'": [
+        "https://www.onepeloton.ca/shop/accessories/set/bikes-ultimate-acc"
+      ]
+    },
+    {
+      "canonical for 'https://www.onepeloton.ca/careers/studio-operations'": [
+        "https://www.onepeloton.ca/careers"
+      ]
+    }
+  ]
+}
